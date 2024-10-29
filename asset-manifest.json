@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SMKPGRI1/static/css/main.c623f269.css",
+    "main.js": "/SMKPGRI1/static/js/main.20050a24.js",
+    "static/js/453.c9c8a754.chunk.js": "/SMKPGRI1/static/js/453.c9c8a754.chunk.js",
+    "index.html": "/SMKPGRI1/index.html",
+    "main.c623f269.css.map": "/SMKPGRI1/static/css/main.c623f269.css.map",
+    "main.20050a24.js.map": "/SMKPGRI1/static/js/main.20050a24.js.map",
+    "453.c9c8a754.chunk.js.map": "/SMKPGRI1/static/js/453.c9c8a754.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c623f269.css",
+    "static/js/main.20050a24.js"
+  ]
+}
